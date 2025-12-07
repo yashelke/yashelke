@@ -5,8 +5,8 @@
 ### 💻 MERN Stack Developer | 🤖 Machine Learning Enthusiast
 
 [![GitHub followers](https://img.shields.io/github/followers/yashelke?style=social)](https://github.com/yashelke)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio.com)
+
+
 
 </div>
 
