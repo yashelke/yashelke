@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi there, I'm Yash 👋
+# Hi there, I'm Yash Shelke.
 
 ### 💻 MERN Stack Developer | 🤖 Machine Learning Enthusiast
 
