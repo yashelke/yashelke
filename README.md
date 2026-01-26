@@ -19,7 +19,7 @@ Passionate **MERN Stack Web Developer** and **Machine Learning enthusiast** skil
 - 🔭 Currently working on full-stack projects with React & Node.js
 - 🌱 Exploring ML/AI and data science
 - 💡 Strong foundation in algorithms, data structures, and system design
-- ⚡ Fun fact: I turn coffee into code ☕
+- ⚡ Fun fact: I turn tea into code 🍵
 
 ---
 
